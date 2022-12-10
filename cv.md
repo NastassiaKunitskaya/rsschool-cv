@@ -15,3 +15,5 @@ English - A2
 Turkish - B1
 **Personal gualities:**
 Desire to learn, communication skills, team player.
+**My project:**
+[CV](https://github.com/NastassiaKunitskaya/rsschool-cv)
